@@ -2,7 +2,7 @@
 
 This repository holds the below projects. Currently they're binned in five different categories.
 
-- EDA (Exploratory data Analysis)
+- [EDA (Exploratory data Analysis)]()
 - Prediction (Regression)
 - Prediction (Classification)
 - Cluster analysis (unclassified data)
