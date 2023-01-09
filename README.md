@@ -9,3 +9,7 @@ This repository holds the below projects. Currently they're binned in five diffe
 - [Advanced data science (NLP, computer vision, deep neural nets)](https://github.com/cbohnert67/Data-Science/tree/main/Advanced%20data%20science%20(NLP%2C%20computer%20vision%2C%20deep%20neural%20nets))
 
 Each project has more detailed documentation that explains the summary and key takeaways of the project.
+
+Additionnaly, here is a list of dashboards I created with Streamlit: 
+
+- [PE-BMO-Dashboard](https://github.com/cbohnert67/PE-BMO-Dashboard)
